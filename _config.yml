@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          JulyPAPA's Blog
 paginate:       5
-baseurl:        "/julypapa-blog/"
+baseurl:        "/julypapa-blog"
 url:            "https://nakniner.github.io/julypapa-blog"
 
 # Assets
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Jonghoon, Lee
-  url:          http://nakniner.github.io
+  url:          https://nakniner.github.io/julypapa-blog
   email:        nakniner@gmail.com
 
 # Custom vars
@@ -36,5 +36,5 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/nakniner'}
 - {icon: 'instagram', link: 'https://instagram.com/nakniner'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jong-hoon-lee-9434a6133/'}
-# - {icon: 'envelope', link: 'mailto:nakniner@gmail.com'}
+- {icon: 'envelope', link: 'mailto:nakniner@gmail.com'}
 # - {icon: 'rss-square', link: 'https://www.github.com/nakniner/feed.xml'}
