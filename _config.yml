@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          JulyPAPA's Blog
 paginate:       5
 baseurl:        "/julypapa-blog/"
-url:            "https://chesterhow.github.io/tale"
+url:            "https://nakniner.github.io/julypapa-blog"
 
 # Assets
 sass:
