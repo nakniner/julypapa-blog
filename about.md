@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 <div class="author-image-container">
-  <img src="/img/me.jpg" alt="me">
+  <img src="{{site.baseurl}}/img/me.jpg" alt="me">
 </div>
 
 In "Com2us" Corporation ( 2008 - 2017 )
