@@ -1,0 +1,47 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          JulyPAPA's Blog
+paginate:       5
+baseurl:        ""
+url:            "https://chesterhow.github.io/tale"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Jonghoon, Lee
+  url:          http://nakniner.github.io
+  email:        nakniner@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/nakniner/julypapa-blog
+
+# Gems
+gems:
+  - jekyll-paginate
+
+# SNS Usernames
+twitter_username:     nakniner
+github_username:      nakniner
+linkedin_username:
+google_plus_username:
+facebook_username:
+
+# SNS icon
+social:
+- {icon: 'github', link: 'https://www.github.com/nakniner'}
+- {icon: 'twitter', link: 'https://twitter.com/nakniner'}
+- {icon: 'instagram', link: 'https://instagram.com/nakniner'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jong-hoon-lee-9434a6133/'}
+- {icon: 'envelope', link: 'mailto:nakniner@gmail.com'}
+- {icon: 'rss-square', link: 'https://www.github.com/nakniner/feed.xml'}
