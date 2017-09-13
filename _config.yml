@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          JulyPAPA's Blog
 paginate:       5
-baseurl:        ""
+baseurl:        "/julypapa-blog"
 url:            "https://chesterhow.github.io/tale"
 
 # Assets
@@ -29,13 +29,6 @@ github:
 # Gems
 gems:
   - jekyll-paginate
-
-# SNS Usernames
-twitter_username:     nakniner
-github_username:      nakniner
-linkedin_username:
-google_plus_username:
-facebook_username:
 
 # SNS icon
 social:
